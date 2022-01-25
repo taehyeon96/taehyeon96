@@ -1,4 +1,23 @@
-### Hi there 👋
+# Taehyeon ~ 👋
+
+## 💬 Git Contents
+* [Research] Papers and Awards
+* [Python] Algorithm Problem
+* [Apache] Spark
+* [NLP] TextAugmentation BERT
+* [ML] Data Science
+* [RL] MountainCar by using DQN
+* S-LSM-Tree
+
+
+## 🌱 Technical Skill
+* SPARK
+* Python
+* C++/C
+* MySQL
+
+
+
 
 <!--
 **taehyeon96/taehyeon96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
