@@ -1,5 +1,7 @@
 # Taehyeon ~ 👋
 
+## 📫 Contact : sungro96@sogang.ac.kr (or gmail.com)
+
 ## 💬 Git Contents
 * [Research] Papers and Awards
 * [Python] Algorithm Problem
@@ -7,15 +9,14 @@
 * [NLP] TextAugmentation BERT
 * [ML] Data Science
 * [RL] MountainCar by using DQN
-* S-LSM-Tree
+* S-LSM-Tree (Research project in our LAB)
 
 
-## 🌱 Technical Skill
+## 🌱 Technical Skills
 * SPARK
 * Python
 * C++/C
 * MySQL
-
 
 
 
