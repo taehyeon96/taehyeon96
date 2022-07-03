@@ -5,7 +5,6 @@
 ## 💬 Git Contents
 * [Research] Papers and Awards
 * [Python] Algorithm Problem
-* [Apache] Spark
 * [NLP] TextAugmentation BERT
 * [ML] Data Science
 * [RL] MountainCar by using DQN
@@ -13,12 +12,11 @@
 
 
 ## 🌱 Technical Skills
-* SPARK
 * Python
 * C++/C
 * MySQL
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taehyeon96&show_icons=true&theme=radical)
 
 <!--
 **taehyeon96/taehyeon96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
