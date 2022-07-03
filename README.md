@@ -18,8 +18,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taehyeon96&show_icons=true&theme=radical)
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=sungro96)](https://solved.ac/sungro96)
-
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sungro96)](https://solved.ac/sungro96)
 
 <!--
 **taehyeon96/taehyeon96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
