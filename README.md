@@ -20,6 +20,8 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sungro96)](https://solved.ac/sungro96)
 
+## ⚡ Velog : https://velog.io/@taehyeon96/about
+
 <!--
 **taehyeon96/taehyeon96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
